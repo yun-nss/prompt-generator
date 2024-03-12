@@ -1,1 +1,8 @@
 # prompt-generator
+
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x0AC387794dB3302C66C96b95edd187e6853403fd'
+quorum: 1
